@@ -1,0 +1,70 @@
+
+.bg-container{
+
+    height: 200vh;
+    width: 100%;
+    
+    
+
+}
+
+.card-container{
+
+    height: 80vh;
+    width: 100%;
+    background-image: url("https://d1v008d34eu7jc.cloudfront.net/wp-content/uploads/2017/09/Ego-at-The-Old-Ashfield-Sutton-in-Ashfield-Restaurant.png");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.heading-main{
+
+color: #FF2400;
+    
+    font-size: 50px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.para{
+    color: blue;
+    font-size: 30px;
+
+
+}
+
+.input{
+
+    height: 45px;
+    width: 80vh;
+    border-radius: 5px;
+    border-width: 0px;
+    border-color: white;
+    font-size: 21px;
+
+}
+
+.search-bar-container{
+
+    display: flex;
+    flex-direction: row;
+}
+.search-icon{
+
+    height: 40px;
+    width: 40px;
+    margin: 3px;
+    background-color: none;
+
+}
+
+.ul-container{
+
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}

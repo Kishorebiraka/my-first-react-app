@@ -1,0 +1,57 @@
+
+.image-item{
+    height: 20vh;
+    width: 60vh;
+    background-size: cover;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+   
+    
+    
+
+}
+
+
+.bg-for-item{
+
+    height: 40vh;
+    width: 60vh;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 10px 5px 5px #baded8;
+    
+    
+}
+
+
+.bg-for-item:hover {background-color:azure;}
+
+
+li{
+
+    list-style-type: none;
+}
+
+.dish-name{
+
+    color: black;
+    font-size: 24px;
+}
+
+.button{
+
+    height: 30px;
+    width: 140px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: #ffffff;
+    cursor: pointer;
+    outline: auto;
+}
+
+.button:hover {background-color:#f2c933;}
